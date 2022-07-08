@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # uses GitHub's checkout action to checkout code form the master branch
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
     
     # changes the base-tag in index.html from '/' to 'BlazorAotTest' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to BlazorAotTest
