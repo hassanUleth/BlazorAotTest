@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     # uses GitHub's checkout action to checkout code form the master branch
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     
     # changes the base-tag in index.html from '/' to 'BlazorAotTest' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to BlazorAotTest
@@ -58,8 +58,8 @@ jobs:
         #echo -n "$jsFile" > service-worker-assets.js
     
     - name: Commit root to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
-        folder: ./
+        folder: .
