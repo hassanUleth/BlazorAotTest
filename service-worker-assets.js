@@ -265,7 +265,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-BY5ZTCD4HCY00C3YKthzFyJgXIH1uuY29EDO30N2g3E=",
       "url": "favicon.ico"
     },
     {
@@ -277,7 +277,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-reExftcGsE6zbAyYQN1kawuIatB1EbpzQgDRLabPyVA=",
+      "hash": "sha256-i6ELy5Seudpv5bQkHonRNzC7mwEC9bsmIfGIvZmJW70=",
       "url": "index.html"
     },
     {
@@ -298,4 +298,4 @@
     }
   ],
   "version": "lcb1I\/gT"
-};
+};
