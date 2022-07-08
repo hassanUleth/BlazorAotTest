@@ -277,7 +277,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-23xVuArKqoh1SdsTnfHfBMNBqS/ywF17uBSxIgzh1HQ=",
+      "hash": "sha256-\/2FEL\/SDUefPYV1jl4Bb\/oAqrxay\/weiB\/5O4oYi+N0=",
       "url": "index.html"
     },
     {
@@ -298,4 +298,4 @@
     }
   ],
   "version": "TXIbZw1i"
-};
+};
