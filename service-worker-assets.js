@@ -25,11 +25,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-rgW8orL\/JasYlr2ZR7T84Jcnu5YpjVCh5UI2R4sGwso=",
+      "hash": "sha256-xFhDM7UEiagVAX9DJ7rnK4HSWIEqNpybbZu7\/jyatTU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-OtVoJEhbkSdoF1YrraJXmlGIfG5e6vpmEyiT4vsctnU=",
+      "hash": "sha256-RWi4jnH56xPtZ0WqYt6lvsLCwyVH6NjxiHgl+3PJTwM=",
       "url": "_framework\/BlazorDeploymentTest.dll"
     },
     {
@@ -197,15 +197,15 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-t1FuVNsc64BFpir30S0JQQXDlsiIC2TJOVhwiL48Htc=",
+      "hash": "sha256-riSGJa6wNmDZyaKQ3TfXEHlKyBljBaxNge21jeq4pvs=",
       "url": "_framework\/dotnet.6.0.6.y0nvm8snon.js"
     },
     {
-      "hash": "sha256-YOWpRWEK1HwMgwAdirz7TVHXyi2NcLugnPbmRE9iKy0=",
+      "hash": "sha256-MexurabvHbycNmuHxeRNVidfeQGdii7MJhd2rQ9f1Hk=",
       "url": "_framework\/dotnet.wasm"
     },
     {
-      "hash": "sha256-NsB9SanjeJbUPSdmJvLirKXQa92UrocU2PUxNagleuc=",
+      "hash": "sha256-qZN1b1XVTbzLoYzuzNyGzn3g1GkS5IozwhYmJg646IM=",
       "url": "_framework\/fr\/BlazorDeploymentTest.resources.dll"
     },
     {
@@ -297,5 +297,5 @@
       "url": "scripts\/example.js"
     }
   ],
-  "version": "xoBPDtGe"
+  "version": "TXIbZw1i"
 };
