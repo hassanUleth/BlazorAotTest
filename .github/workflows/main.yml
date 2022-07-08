@@ -57,9 +57,9 @@ jobs:
 
         #echo -n "$jsFile" > service-worker-assets.js
     
-    - name: Commit wwwroot to GitHub Pages
+    - name: Commit root to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.3.4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
+        branch: main
         folder: ./
