@@ -26,7 +26,7 @@ jobs:
       run: cp ./index.html ./404.html
     
     - name: Fix service-worker-assets.js hashes
-      working-directory: release/wwwroot
+      working-directory: .
       run: |
         jsFile=$(<service-worker-assets.js)
         # remove JavaScript from contents so it can be interpreted as JSON
