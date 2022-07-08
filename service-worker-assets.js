@@ -265,7 +265,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-BY5ZTCD4HCY00C3YKthzFyJgXIH1uuY29EDO30N2g3E=",
+      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
     {
